@@ -23,4 +23,4 @@ https://github.com/CBFay/Python_Study/tree/master/Python%200039%20-%20linked_lis
 
 
 Please feel free to approach me with questions about code in any of my repositories.
-CB Fay
+~ CB Fay
