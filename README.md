@@ -12,10 +12,10 @@ https://github.com/CBFay/Python_Study/tree/master/Python%200041%20-%20checkIPs
 info_mask - Python - Mask contact information to comply with business rules.
 https://github.com/CBFay/Python_Study/tree/master/Python%200059%20-%20info_mask
 
-Minesweeper - Java - Use console printing to play Minesweeper
+Minesweeper - Java - Use console printing to play Minesweeper.
 https://github.com/CBFay/Java_Study/tree/master/Java%200083%20-%20Minesweeper.java
 
-bomb_baby - Python - Detect an unintended cycle in a random generation algorithm
+bomb_baby - Python - Detect an unintended cycle in a random generation algorithm.
 https://github.com/CBFay/Lambda/tree/master/Challenge%204%20-%20bomb_baby
 
 MorseListener - Java - Decode Morse Code strokes into English Strings.
