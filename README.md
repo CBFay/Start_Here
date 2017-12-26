@@ -1,6 +1,6 @@
 # Start_Here
-## Hello!
-This README serves to direct interested parties towards code samples from my previous 6 months of work.
+### Hello!
+## This README serves to direct interested parties towards code samples from my previous 6 months of work.
 
 
 elevator_maintainance - Java - Detect the newest of two program version numbers.
