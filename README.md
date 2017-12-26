@@ -21,9 +21,5 @@ https://github.com/CBFay/Lambda/tree/master/Challenge%204%20-%20bomb_baby
 MorseListener - Java - Decode Morse Code strokes into English Strings.
 https://github.com/CBFay/Java_Study/tree/master/Java%200097%20-%20MorseListener
 
-linked_list - Python - My personal implementation of a Linked List in Python.
-https://github.com/CBFay/Python_Study/tree/master/Python%200039%20-%20linked_list
-
-
 Please feel free to approach me with questions about code in any of my repositories.
 ~ CB Fay
