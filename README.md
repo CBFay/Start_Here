@@ -2,6 +2,8 @@
 ### Hello!
 ### This page serves to direct interested parties towards code samples that demonstrate my ability to solve business problems with programming languages.
 
+project-euler - Scala/Python
+https://github.com/CBFay/Project-Euler
 
 elevator_maintainance - Java - Detect the newest of two program version numbers.
 https://github.com/CBFay/Lambda/tree/master/Challenge%203%20-%20elevator_maintainance
