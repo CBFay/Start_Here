@@ -1,6 +1,6 @@
 # Start_Here
 ### Hello!
-### This page serves to direct interested parties towards code samples from my previous 6 months of work.
+### This page serves to direct interested parties towards code samples that demonstrate my ability to solve business problems with programming languages.
 
 
 elevator_maintainance - Java - Detect the newest of two program version numbers.
