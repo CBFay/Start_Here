@@ -1,6 +1,6 @@
 # Start_Here
 ### Hello!
-### This page serves to direct interested parties towards code samples that demonstrate my ability to solve business problems with various programming languages.
+### This following are examples of my work that demonstrate my ability to solve business problems with programming language.
 
 project-euler - Scala/Python  
 https://github.com/CBFay/Project-Euler
